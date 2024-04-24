@@ -2,7 +2,7 @@
 //where three classes are overriding the method of a parent class.  
 //Creating a parent class.  
 
-/*      N E   D O V R S E N O */
+
 public class Banks_Main {
 
 	public static void main(String[] args) {
